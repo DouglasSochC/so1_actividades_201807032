@@ -1,0 +1,8 @@
+[Unit]
+Description=Actividad 3 - Sistemas Operativos 1 - 201807032
+
+[Service]
+ExecStart=/usr/local/bin/actividad3.sh
+
+[Install]
+WantedBy=default.target
